@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://compermisos.github.com/pear</id>
-    <updated>2012-09-18T21:34:46-05:00</updated>
+    <updated>2012-09-19T12:35:59-05:00</updated>
     <title>Compermisos PEAR Latest Releases</title>
     <link href="http://compermisos.github.com/pear/feed.xml" rel="self" />
     <author>
         <name>http://compermisos.github.com/pear</name>
     </author>
 
-
+    <entry>
+        <title>pluggeable 0.1.0 (stable)</title>
+        <link href="http://compermisos.github.com/pear/get/pluggeable-0.1.0.tgz" />
+        <id>http://compermisos.github.com/pear/get/pluggeable-0.1.0.tgz</id>
+        <author>
+            <name>compermisos</name>
+        </author>
+        <updated>2012-09-19T12:29:31-05:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>
 </feed>
