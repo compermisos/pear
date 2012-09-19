@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <name>compermisos.github.com/pear</name>
+    <summary>Compermisos PEAR</summary>
+    <alias>coPear</alias>
+    <url>http://compermisos.github.com/pear</url>
+</server>
