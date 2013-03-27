@@ -2,19 +2,19 @@
 <r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
     <p xlink:href="/rest/p/cogenerate">coGenerate</p>
     <c>compermisos.github.com/pear</c>
-    <v>0.2.0</v>
+    <v>0.2.1</v>
     <st>stable</st>
     <l>BSD</l>
-    <m>Anything goes here</m>
+    <m>Compermisos</m>
     <s>Simple directory listener</s>
     <d>
     Make a prety directory indexes.
   </d>
-    <da>2013-03-26 22:47:45</da>
+    <da>2013-03-26 23:07:21</da>
     <n>
     No notes.
   </n>
     <f>2892</f>
-    <g>http://compermisos.github.com/pear/get/coGenerate-0.2.0</g>
-    <x xlink:href="package.0.2.0.xml"/>
+    <g>http://compermisos.github.com/pear/get/coGenerate-0.2.1</g>
+    <x xlink:href="package.0.2.1.xml"/>
 </r>

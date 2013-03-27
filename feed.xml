@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://compermisos.github.com/pear</id>
-    <updated>2013-03-26T23:01:29-05:00</updated>
+    <updated>2013-03-26T23:07:25-05:00</updated>
     <title>Compermisos PEAR Latest Releases</title>
     <link href="http://compermisos.github.com/pear/feed.xml" rel="self" />
     <author>
@@ -9,6 +9,19 @@
     </author>
 
     <entry>
+        <title>coGenerate 0.2.1 (stable)</title>
+        <link href="http://compermisos.github.com/pear/get/coGenerate-0.2.1.tgz" />
+        <id>http://compermisos.github.com/pear/get/coGenerate-0.2.1.tgz</id>
+        <author>
+            <name>Compermisos</name>
+        </author>
+        <updated>2013-03-26T23:07:21-05:00</updated>
+        <content>
+            
+    No notes.
+  
+        </content>
+    </entry>    <entry>
         <title>coGenerate 0.2.0 (stable)</title>
         <link href="http://compermisos.github.com/pear/get/coGenerate-0.2.0.tgz" />
         <id>http://compermisos.github.com/pear/get/coGenerate-0.2.0.tgz</id>

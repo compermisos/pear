@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.1" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0
+    http://pear.php.net/dtd/tasks-1.0.xsd
+    http://pear.php.net/dtd/package-2.0
+    http://pear.php.net/dtd/package-2.0.xsd">
+  <name>coGenerate</name>
+  <channel>compermisos.github.com/pear</channel>
+  <summary>Simple directory listener</summary>
+  <description>
+    Make a prety directory indexes.
+  </description>
+  <lead>
+    <name>Jesus Christian Cruz Acono</name>
+    <user>Compermisos</user>
+    <email>Compermisos@gmail.com</email>
+    <active>yes</active>
+  </lead>
+  <date>2013-03-26</date>
+  <time>23:07:21</time>
+  <version>
+    <release>0.2.1</release>
+    <api>0.2</api>
+  </version>
+  <stability>
+    <release>stable</release>
+    <api>stable</api>
+  </stability>
+  <license>BSD</license>
+  <notes>
+    No notes.
+  </notes>
+  <contents>
+    <dir baseinstalldir="/" name="/">
+      <file baseinstalldir="/" md5sum="9a78a83a410f5c968b00f1185828f55a" name="LICENSE.txt" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+      <file baseinstalldir="/" md5sum="dc1948e53e29c9df254ba153c0a0ad75" name="README.md" role="doc">        <tasks:replace from="@@PACKAGE_VERSION@@" to="version" type="package-info" />
+        <tasks:replace from="@@PHP_DIR@@" to="php_dir" type="pear-config" />
+        <tasks:replace from="@@DATA_DIR@@" to="data_dir" type="pear-config" />
+      </file>
+
+    </dir>
+  </contents>
+  <dependencies>
+    <required>
+      <php>
+        <min>5.3.0</min>
+      </php>
+      <pearinstaller>
+        <min>1.9.4</min>
+      </pearinstaller>
+      <package>
+        <name>Autoloader</name>
+        <channel>pear.phix-project.org</channel>
+        <min>3.0.0</min>
+        <max>3.999.9999</max>
+      </package>
+      <package>
+        <name>coSimpleTemplate</name>
+        <channel>compermisos.github.com/pear</channel>
+        <min>0.1.0</min>
+        <max>1.999.9999</max>
+      </package>
+    </required>
+  </dependencies>
+  <phprelease />
+  <changelog>
+    <release>
+      <version>
+        <release>X.Y.Z</release>
+        <api>X.Y</api>
+      </version>
+      <stability>
+        <release>stable</release>
+        <api>stable</api>
+      </stability>
+      <date>Your release date</date>
+      <license>All rights reserved</license>
+      <notes>
+      </notes>
+    </release>
+  </changelog>
+</package>
+<!-- vim: set tabstop=2 shiftwidth=2 expandtab: -->

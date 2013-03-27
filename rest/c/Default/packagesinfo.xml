@@ -5,15 +5,19 @@
             <n>coGenerate</n>
             <c>compermisos.github.com/pear</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
-            <l>All rights reserved.</l>
-            <s>Summary goes here</s>
+            <l>BSD</l>
+            <s>Simple directory listener</s>
             <d>
-    Description goes here
+    Make a prety directory indexes.
   </d>
             <r xlink:href="/rest/r/cogenerate" />
         </p>
 
         <a>
+            <r>
+                <v>0.2.1</v>
+                <s>stable</s>
+            </r>
             <r>
                 <v>0.2.0</v>
                 <s>stable</s>
@@ -21,6 +25,10 @@
 
         </a>
 
+        <deps>
+            <v>0.2.1</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:2:{i:0;a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}i:1;a:4:{s:4:"name";s:16:"coSimpleTemplate";s:7:"channel";s:27:"compermisos.github.com/pear";s:3:"min";s:5:"0.1.0";s:3:"max";s:10:"1.999.9999";}}}}</d>
+        </deps>
         <deps>
             <v>0.2.0</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:5:"5.3.0";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:4:{s:4:"name";s:10:"Autoloader";s:7:"channel";s:21:"pear.phix-project.org";s:3:"min";s:5:"3.0.0";s:3:"max";s:10:"3.999.9999";}}}</d>

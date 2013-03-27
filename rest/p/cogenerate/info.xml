@@ -3,10 +3,10 @@
 <n>coGenerate</n>
 <c>compermisos.github.com/pear</c>
 <ca xlink:href="/rest/c/Default">Default</ca>
-<l>All rights reserved.</l>
-<s>Summary goes here</s>
+<l>BSD</l>
+<s>Simple directory listener</s>
 <d>
-    Description goes here
+    Make a prety directory indexes.
   </d>
 <r xlink:href="/rest/r/cogenerate" />
 </p>
