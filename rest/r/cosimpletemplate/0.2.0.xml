@@ -2,7 +2,7 @@
 <r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
     <p xlink:href="/rest/p/cosimpletemplate">coSimpleTemplate</p>
     <c>compermisos.github.com/pear</c>
-    <v>0.1.0</v>
+    <v>0.2.0</v>
     <st>stable</st>
     <l>New BSD License.</l>
     <m>compermisos</m>
@@ -11,11 +11,11 @@
     Simple template manager, no cache, no fancy, only variables, no more.
     Fast, insecure, and usefull
   </d>
-    <da>2013-03-26 19:31:06</da>
+    <da>2013-03-27 11:59:25</da>
     <n>
-    No notes.
+    See the code in https://github.com/compermisos/coSimpleTemplate and fork!!!.
   </n>
-    <f>3234</f>
-    <g>http://compermisos.github.com/pear/get/coSimpleTemplate-0.1.0</g>
-    <x xlink:href="package.0.1.0.xml"/>
+    <f>3660</f>
+    <g>http://compermisos.github.com/pear/get/coSimpleTemplate-0.2.0</g>
+    <x xlink:href="package.0.2.0.xml"/>
 </r>

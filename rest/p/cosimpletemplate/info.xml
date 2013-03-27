@@ -3,7 +3,7 @@
 <n>coSimpleTemplate</n>
 <c>compermisos.github.com/pear</c>
 <ca xlink:href="/rest/c/Default">Default</ca>
-<l>All rights reserved.</l>
+<l>New BSD License.</l>
 <s>Simple template manager.</s>
 <d>
     Simple template manager, no cache, no fancy, only variables, no more.
